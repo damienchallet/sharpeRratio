@@ -2,7 +2,7 @@ Package: sharpeRratio
 Type: Package
 Title: Moment-Free Estimation of Sharpe Ratios  
 Version: 1.2
-Date: 2018-08-28
+Date: 2019-03-19
 Author: Damien Challet
 Maintainer: Damien Challet <damien.challet@gmail.com>
 Description: An efficient moment-free estimator of the Sharpe ratio, or signal-to-noise ratio, for heavy-tailed data (see <arXiv:1505.01333>).
