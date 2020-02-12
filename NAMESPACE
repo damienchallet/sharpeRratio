@@ -1,6 +1,4 @@
 useDynLib(sharpeRratio,.registration=TRUE)
-#exportPattern("^[[:alpha:]]+")
 importFrom(Rcpp, evalCpp)
 importFrom(ghyp,fit.tuv,coef)
-#importFrom(stats, coef)
 export(estimateSNR)
